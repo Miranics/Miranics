@@ -1,6 +1,6 @@
 # Hello, I'm `Miranics` 👨‍💻
 
-<sub><sup>Welcome to my GitHub profile! I'm a passionate developer continuously expanding my skills across various domains of software engineering and technology.</sup></sub>
+<sub>Welcome to my GitHub profile! I'm a passionate developer continuously expanding my skills across various domains of software engineering and technology.</sub>
 
 ---
 
@@ -62,4 +62,3 @@
 
 ---
 
-Thank you for stopping by! Explore my repositories and connect with me if you share similar interests!
