@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠️ `Languages and Tools`
+# 🛠️ `Languages and Tools`
 
 <sub>Here’s a quick overview of my tech stack and the tools I work with.</sub>
 
