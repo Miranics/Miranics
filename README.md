@@ -29,7 +29,7 @@
 <sub>Explore my coding stats, streaks, and most frequently used languages:</sub>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Miranics&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-<--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miranics&theme=dark&hide_border=true&layout=compact&langs_count=8)-->
+<![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miranics&theme=dark&hide_border=true&layout=compact&langs_count=8)!>
 
 ---
 
