@@ -11,7 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineer+%26+AI+Researcher;Quantum+Computing+%7C+Full-Stack+%7C+DevOps;Building+the+Future+with+Code+%26+Innovation)](https://git.io/typing-svg)
 
 </div>
-
+<div align="center">
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════╗
   ║   Welcome to my GitHub Laboratory                                 ║ 
@@ -19,7 +19,7 @@
   ║   69+ Repositories | AI/ML | Quantum | Full-Stack | DevOps        ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
-
+</div>
 <p align="center">
   <em>Passionate software engineer and researcher specializing in artificial intelligence, quantum computing, and distributed systems. Currently advancing computational frontiers at African Leadership University while contributing to next-generation technologies.</em>
 </p>
@@ -117,14 +117,6 @@
 
 ---
 
-<div align="center">
-
-## 🎯 **CURRENT FOCUS**
-
-🔬 **Research:** Quantum-Classical Hybrid Algorithms & Large Language Models  
-🚀 **Development:** Advanced AI Applications & Cloud-Native Solutions  
-📚 **Learning:** MLOps, High-Performance Computing & Blockchain Security  
-🤝 **Contributing:** Open Source Projects & Academic Research  
 
 </div>
 
@@ -132,11 +124,11 @@
 
 <div align="center">
 
-## 🏆 **ACHIEVEMENTS**
+##  **ACHIEVEMENTS**
 
-🎓 **African Leadership University** - Software Engineering(Specializing in ML) 
+🎓 **African Leadership University** - Software Engineering(Specializing in ML)
 🏅 **IBM Certified** - Back-End Development Professional  
-⭐ **79+ Public Repositories** - Diverse Technical Portfolio  
+ **79+ Public Repositories** - Diverse Technical Portfolio  
 🔬 **Active Researcher** - AI, Quantum Computing & Cybersecurity  
 
 </div>
@@ -145,7 +137,7 @@
 
 <div align="center">
 
-## 📫 **CONNECT WITH ME**
+##  **CONNECT WITH ME**
 
 [![Email](https://img.shields.io/badge/Email-002nasya@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:002nasya@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@Miranics-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Miranics)
@@ -172,7 +164,7 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
 
-### 🚀 **Building Tomorrow's Technology Today** 🚀
+###  **Building Tomorrow's Technology Today** 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Miranics&color=blueviolet&style=for-the-badge)](https://github.com/Miranics)
 [![Followers](https://img.shields.io/github/followers/Miranics?style=for-the-badge&color=blue&labelColor=black)](https://github.com/Miranics?tab=followers)
