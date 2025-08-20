@@ -87,7 +87,7 @@
 
 <div align="center">
 
-##  **FEATURED PROJECTS**
+##  **FEATURED PROJECT**
 
 ###  **Hii_Nen - Advanced AI Full-Stack Application**
 
@@ -102,47 +102,7 @@
 <tr>
 <td width="50%">
 
-### 🤖 **AI & Machine Learning**
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Miranics&repo=LLMs-from-scratch&theme=tokyonight&hide_border=true)](https://github.com/Miranics/LLMs-from-scratch)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Miranics&repo=Megatron-LM&theme=tokyonight&hide_border=true)](https://github.com/Miranics/Megatron-LM)
-
-</td>
-<td width="50%">
-
-### ⚛️ **Quantum Computing**
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Miranics&repo=cuda-quantum&theme=tokyonight&hide_border=true)](https://github.com/Miranics/cuda-quantum)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Miranics&repo=cuQuantum&theme=tokyonight&hide_border=true)](https://github.com/Miranics/cuQuantum)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 **Full-Stack Development**
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Miranics&repo=MoMo-full-stack-application&theme=tokyonight&hide_border=true)](https://github.com/Miranics/MoMo-full-stack-application)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Miranics&repo=grade-book-app_Nanen-Miranics&theme=tokyonight&hide_border=true)](https://github.com/Miranics/grade-book-app_Nanen-Miranics)
-
-</td>
-<td width="50%">
-
-### 🛡️ **Security & DevOps**
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Miranics&repo=blackbird&theme=tokyonight&hide_border=true)](https://github.com/Miranics/blackbird)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Miranics&repo=azure-powershell&theme=tokyonight&hide_border=true)](https://github.com/Miranics/azure-powershell)
-
-</td>
-</tr>
-</table>
-</div>
-
----
 
 <div align="center">
 
