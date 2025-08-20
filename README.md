@@ -14,9 +14,9 @@
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════╗
-║   Welcome to my GitHub Laboratory                                  ║
-║  🔬 Where Code Meets Innovation                                      ║  
-║   69+ Repositories | AI/ML | Quantum | Full-Stack | DevOps         ║
+  ║   Welcome to my GitHub Laboratory                                 ║ 
+ ║  🔬 Where Code Meets Innovation                                      ║  
+  ║   69+ Repositories | AI/ML | Quantum | Full-Stack | DevOps        ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -174,7 +174,7 @@
 
 ## 🏆 **ACHIEVEMENTS**
 
-🎓 **African Leadership University** - Computer Science & Software Engineering  
+🎓 **African Leadership University** - Software Engineering(Specializing in ML) 
 🏅 **IBM Certified** - Back-End Development Professional  
 ⭐ **79+ Public Repositories** - Diverse Technical Portfolio  
 🔬 **Active Researcher** - AI, Quantum Computing & Cybersecurity  
@@ -191,12 +191,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-@Miranics-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Miranics)
 
 ```ascii
-╔══════════════════════════════════════════════════════════════════════════╗
-║                   🤝 COLLABORATION OPPORTUNITIES                        ║
-║                                                                          ║
-║  🔬 Research Projects    🚀 Open Source     💼 Consulting               ║
-║  🎓 Mentoring           🌟 Innovation       🤖 AI/ML Solutions          ║
-╚══════════════════════════════════════════════════════════════════════════╝
+
 ```
 
 </div>
