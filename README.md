@@ -12,17 +12,12 @@
 
 </div>
 <div align="center">
-```ascii
 ╔═══════════════════════════════════════════════════════════════════════╗
   ║   Welcome to my GitHub Laboratory                                 ║ 
  ║  🔬 Where Code Meets Innovation                                      ║  
   ║   69+ Repositories | AI/ML | Quantum | Full-Stack | DevOps        ║
 ╚═══════════════════════════════════════════════════════════════════════╝
-```
 </div>
-<p align="center">
-  <em>Passionate software engineer and researcher specializing in artificial intelligence, quantum computing, and distributed systems. Currently advancing computational frontiers at African Leadership University while contributing to next-generation technologies.</em>
-</p>
 
 ---
 
