@@ -14,9 +14,9 @@
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════╗
-║  🌟 Welcome to my GitHub Laboratory                                  ║
+║   Welcome to my GitHub Laboratory                                  ║
 ║  🔬 Where Code Meets Innovation                                      ║  
-║  🚀 69+ Repositories | AI/ML | Quantum | Full-Stack | DevOps        ║
+║   69+ Repositories | AI/ML | Quantum | Full-Stack | DevOps         ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-## 🎯 **EXPERTISE DOMAINS**
+##  **EXPERTISE DOMAINS**
 
 </div>
 
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-## ⚡ **TECHNOLOGY STACK**
+##  **TECHNOLOGY STACK**
 
 </div>
 
@@ -87,9 +87,9 @@
 
 <div align="center">
 
-## 🌟 **FEATURED PROJECTS**
+##  **FEATURED PROJECTS**
 
-### 🏆 **Hii_Nen - Advanced AI Full-Stack Application**
+###  **Hii_Nen - Advanced AI Full-Stack Application**
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Miranics&repo=Hii_Nen&theme=tokyonight&hide_border=true&show_description=true)](https://github.com/Miranics/Hii_Nen)
 
@@ -151,10 +151,7 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Miranics&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Miranics&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miranics&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=600)
 
-### 🏆 **GitHub Trophies**
-![Trophies](https://github-profile-trophy.vercel.app/?username=Miranics&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -179,7 +176,7 @@
 
 🎓 **African Leadership University** - Computer Science & Software Engineering  
 🏅 **IBM Certified** - Back-End Development Professional  
-⭐ **69+ Public Repositories** - Diverse Technical Portfolio  
+⭐ **79+ Public Repositories** - Diverse Technical Portfolio  
 🔬 **Active Researcher** - AI, Quantum Computing & Cybersecurity  
 
 </div>
