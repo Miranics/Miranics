@@ -11,13 +11,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineer+%26+AI+Researcher;Quantum+Computing+%7C+Full-Stack+%7C+DevOps;Building+the+Future+with+Code+%26+Innovation)](https://git.io/typing-svg)
 
 </div>
-<div align="center">
+
 ╔═══════════════════════════════════════════════════════════════════════╗
   ║   Welcome to my GitHub Laboratory                                 ║ 
  ║  🔬 Where Code Meets Innovation                                      ║  
   ║   69+ Repositories | AI/ML | Quantum | Full-Stack | DevOps        ║
 ╚═══════════════════════════════════════════════════════════════════════╝
-</div>
+
 
 ---
 
