@@ -15,26 +15,56 @@ I build production-ready applications and reproducible ML systems. My work spans
 
 ## Skills
 
-<table>
-<tr>
-<td><img src="https://img.shields.io/badge/Python-95%25-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python — 95% proficiency" alt="Python 95%"/></td>
-<td><img src="https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript — 85% proficiency" alt="JavaScript 85%"/></td>
-<td><img src="https://img.shields.io/badge/TypeScript-80%25-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript — 80% proficiency" alt="TypeScript 80%"/></td>
-<td><img src="https://img.shields.io/badge/React-85%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" title="React — 85% proficiency" alt="React 85%"/></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Node.js-80%25-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js — 80% proficiency" alt="Node.js 80%"/></td>
-<td><img src="https://img.shields.io/badge/TensorFlow-80%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="TensorFlow — 80% proficiency" alt="TensorFlow 80%"/></td>
-<td><img src="https://img.shields.io/badge/PyTorch-80%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" title="PyTorch — 80% proficiency" alt="PyTorch 80%"/></td>
-<td><img src="https://img.shields.io/badge/C%2B%2B-75%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ — 75% proficiency" alt="C++ 75%"/></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/CUDA-70%25-76B900?style=for-the-badge&logo=nvidia&logoColor=white" title="CUDA — 70% proficiency" alt="CUDA 70%"/></td>
-<td><img src="https://img.shields.io/badge/Docker-75%25-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker — 75% proficiency" alt="Docker 75%"/></td>
-<td><img src="https://img.shields.io/badge/Kubernetes-70%25-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" title="Kubernetes — 70% proficiency" alt="Kubernetes 70%"/></td>
-<td><img src="https://img.shields.io/badge/DevOps-75%25-0f172a?style=for-the-badge&logo=amazonaws&logoColor=white" title="DevOps & CI/CD — 75% proficiency" alt="DevOps 75%"/></td>
-</tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <div style="text-align: center;">
+    <img src="icons/python-programming-language-icon.svg" width="60" height="60" title="Python — 95% proficiency" alt="Python"/>
+    <p><strong>Python</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="icons/javascript-programming-language-icon.svg" width="60" height="60" title="JavaScript — 85% proficiency" alt="JavaScript"/>
+    <p><strong>JavaScript</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="icons/React.svg" width="60" height="60" title="React — 85% proficiency" alt="React"/>
+    <p><strong>React</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="icons/google-tensorflow-icon.svg" width="60" height="60" title="TensorFlow — 80% proficiency" alt="TensorFlow"/>
+    <p><strong>TensorFlow</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="icons/pytorch-icon.svg" width="60" height="60" title="PyTorch — 80% proficiency" alt="PyTorch"/>
+    <p><strong>PyTorch</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="icons/c-program-icon.svg" width="60" height="60" title="C++ — 75% proficiency" alt="C++"/>
+    <p><strong>C++</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="icons/docker-icon.svg" width="60" height="60" title="Docker — 75% proficiency" alt="Docker"/>
+    <p><strong>Docker</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="icons/NumPy.svg" width="60" height="60" title="NumPy — 85% proficiency" alt="NumPy"/>
+    <p><strong>NumPy</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="icons/Pandas.svg" width="60" height="60" title="Pandas — 80% proficiency" alt="Pandas"/>
+    <p><strong>Pandas</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="icons/Jupyter.svg" width="60" height="60" title="Jupyter — 85% proficiency" alt="Jupyter"/>
+    <p><strong>Jupyter</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="icons/Git.svg" width="60" height="60" title="Git — 90% proficiency" alt="Git"/>
+    <p><strong>Git</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="icons/Linux.svg" width="60" height="60" title="Linux — 85% proficiency" alt="Linux"/>
+    <p><strong>Linux</strong></p>
+  </div>
+</div>
 
 ## Selected projects
 
