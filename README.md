@@ -17,51 +17,51 @@ I build production-ready applications and reproducible ML systems. My work spans
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <div style="text-align: center;">
-    <img src="icons/python-programming-language-icon.svg" width="60" height="60" title="Python — 95% proficiency" alt="Python"/>
+    <img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/python-programming-language-icon.svg" width="60" height="60" title="Python — 95% proficiency" alt="Python"/>
     <p><strong>Python</strong></p>
   </div>
   <div style="text-align: center;">
-    <img src="icons/javascript-programming-language-icon.svg" width="60" height="60" title="JavaScript — 85% proficiency" alt="JavaScript"/>
+    <img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/javascript-programming-language-icon.svg" width="60" height="60" title="JavaScript — 85% proficiency" alt="JavaScript"/>
     <p><strong>JavaScript</strong></p>
   </div>
   <div style="text-align: center;">
-    <img src="icons/React.svg" width="60" height="60" title="React — 85% proficiency" alt="React"/>
+    <img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/React.svg" width="60" height="60" title="React — 85% proficiency" alt="React"/>
     <p><strong>React</strong></p>
   </div>
   <div style="text-align: center;">
-    <img src="icons/google-tensorflow-icon.svg" width="60" height="60" title="TensorFlow — 80% proficiency" alt="TensorFlow"/>
+    <img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/google-tensorflow-icon.svg" width="60" height="60" title="TensorFlow — 80% proficiency" alt="TensorFlow"/>
     <p><strong>TensorFlow</strong></p>
   </div>
   <div style="text-align: center;">
-    <img src="icons/pytorch-icon.svg" width="60" height="60" title="PyTorch — 80% proficiency" alt="PyTorch"/>
+    <img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/pytorch-icon.svg" width="60" height="60" title="PyTorch — 80% proficiency" alt="PyTorch"/>
     <p><strong>PyTorch</strong></p>
   </div>
   <div style="text-align: center;">
-    <img src="icons/c-program-icon.svg" width="60" height="60" title="C++ — 75% proficiency" alt="C++"/>
+    <img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/c-program-icon.svg" width="60" height="60" title="C++ — 75% proficiency" alt="C++"/>
     <p><strong>C++</strong></p>
   </div>
   <div style="text-align: center;">
-    <img src="icons/docker-icon.svg" width="60" height="60" title="Docker — 75% proficiency" alt="Docker"/>
+    <img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/docker-icon.svg" width="60" height="60" title="Docker — 75% proficiency" alt="Docker"/>
     <p><strong>Docker</strong></p>
   </div>
   <div style="text-align: center;">
-    <img src="icons/NumPy.svg" width="60" height="60" title="NumPy — 85% proficiency" alt="NumPy"/>
+    <img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/NumPy.svg" width="60" height="60" title="NumPy — 85% proficiency" alt="NumPy"/>
     <p><strong>NumPy</strong></p>
   </div>
   <div style="text-align: center;">
-    <img src="icons/Pandas.svg" width="60" height="60" title="Pandas — 80% proficiency" alt="Pandas"/>
+    <img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Pandas.svg" width="60" height="60" title="Pandas — 80% proficiency" alt="Pandas"/>
     <p><strong>Pandas</strong></p>
   </div>
   <div style="text-align: center;">
-    <img src="icons/Jupyter.svg" width="60" height="60" title="Jupyter — 85% proficiency" alt="Jupyter"/>
+    <img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Jupyter.svg" width="60" height="60" title="Jupyter — 85% proficiency" alt="Jupyter"/>
     <p><strong>Jupyter</strong></p>
   </div>
   <div style="text-align: center;">
-    <img src="icons/Git.svg" width="60" height="60" title="Git — 90% proficiency" alt="Git"/>
+    <img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Git.svg" width="60" height="60" title="Git — 90% proficiency" alt="Git"/>
     <p><strong>Git</strong></p>
   </div>
   <div style="text-align: center;">
-    <img src="icons/Linux.svg" width="60" height="60" title="Linux — 85% proficiency" alt="Linux"/>
+    <img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Linux.svg" width="60" height="60" title="Linux — 85% proficiency" alt="Linux"/>
     <p><strong>Linux</strong></p>
   </div>
 </div>
