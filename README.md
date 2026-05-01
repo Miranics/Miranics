@@ -1,7 +1,6 @@
-# Nanen Miracle Mbanaade (Miranics)
+# Miranics
 
-Software engineer and machine learning researcher focused on applied ML, full‑stack systems, and quantum‑aware computing.
-
+Software and machine learning engineer. I build practical full-stack and AI solutions with strong foundations in reliability, support, and product delivery.
 ## About
 
 I build production-ready applications and reproducible ML systems. My work spans model development, data pipelines, web backends and frontends, and deployment automation. I prioritize clarity, reproducibility, and practical impact.
@@ -52,7 +51,7 @@ I build production-ready applications and reproducible ML systems. My work spans
   </tr>
 </table>
 
-## Selected projects
+## Here are some projects
 
 - Hii_Nen — AI full‑stack application: https://github.com/Miranics/Hii_Nen
 - CardioVision — Medical ML research & demo: https://github.com/Miranics/CardioVision
@@ -61,10 +60,8 @@ I build production-ready applications and reproducible ML systems. My work spans
 
 ## Contact
 
-- Email: 002nasya@gmail.com
-- GitHub: https://github.com/Miranics
-- Portfolio: https://miranics.github.io/portfiolio-/
+- Email: miraclembanaade@gmail.com
+- Portfolio: https://miranics.github.io/portfolio-/
 
 ---
 
-This file is a standardized profile README template. The automation script will use this to create pull requests updating each repository's `README.md`.
