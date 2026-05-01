@@ -14,40 +14,40 @@ I build production-ready applications and reproducible ML systems. My work spans
 
 ## Skills
 
-<p align="center"><sub>Hover icons to see proficiency.</sub></p>
+<p align="center"><sub>Proficiency is shown under each icon.</sub></p>
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/aws-icon.svg" width="56" height="56" title="AWS - 72% proficiency" alt="AWS"/><br/><sub><b>AWS</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Bash.svg" width="56" height="56" title="Bash - 82% proficiency" alt="Bash"/><br/><sub><b>Bash</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/c-program-icon.svg" width="56" height="56" title="C - 75% proficiency" alt="C"/><br/><sub><b>C</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/docker-icon.svg" width="56" height="56" title="Docker - 75% proficiency" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Firebase.svg" width="56" height="56" title="Firebase - 72% proficiency" alt="Firebase"/><br/><sub><b>Firebase</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Flask.svg" width="56" height="56" title="Flask - 75% proficiency" alt="Flask"/><br/><sub><b>Flask</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/aws-icon.svg" width="56" height="56" title="AWS" alt="AWS"/><br/><sub><b>AWS</b><br/>72%</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Bash.svg" width="56" height="56" title="Bash" alt="Bash"/><br/><sub><b>Bash</b><br/>82%</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/c-program-icon.svg" width="56" height="56" title="C" alt="C"/><br/><sub><b>C</b><br/>75%</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/docker-icon.svg" width="56" height="56" title="Docker" alt="Docker"/><br/><sub><b>Docker</b><br/>75%</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Firebase.svg" width="56" height="56" title="Firebase" alt="Firebase"/><br/><sub><b>Firebase</b><br/>72%</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Flask.svg" width="56" height="56" title="Flask" alt="Flask"/><br/><sub><b>Flask</b><br/>75%</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/flutter-icon.svg" width="56" height="56" title="Flutter - 70% proficiency" alt="Flutter"/><br/><sub><b>Flutter</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Git.svg" width="56" height="56" title="Git - 90% proficiency" alt="Git"/><br/><sub><b>Git</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/github-icon.svg" width="56" height="56" title="GitHub - 90% proficiency" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/GitHub%20Actions.svg" width="56" height="56" title="GitHub Actions - 80% proficiency" alt="GitHub Actions"/><br/><sub><b>GitHub Actions</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/javascript-programming-language-icon.svg" width="56" height="56" title="JavaScript - 85% proficiency" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Jupyter.svg" width="56" height="56" title="Jupyter - 85% proficiency" alt="Jupyter"/><br/><sub><b>Jupyter</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/flutter-icon.svg" width="56" height="56" title="Flutter" alt="Flutter"/><br/><sub><b>Flutter</b><br/>70%</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Git.svg" width="56" height="56" title="Git" alt="Git"/><br/><sub><b>Git</b><br/>90%</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/github-icon.svg" width="56" height="56" title="GitHub" alt="GitHub"/><br/><sub><b>GitHub</b><br/>90%</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/GitHub%20Actions.svg" width="56" height="56" title="GitHub Actions" alt="GitHub Actions"/><br/><sub><b>GitHub Actions</b><br/>80%</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/javascript-programming-language-icon.svg" width="56" height="56" title="JavaScript" alt="JavaScript"/><br/><sub><b>JavaScript</b><br/>85%</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Jupyter.svg" width="56" height="56" title="Jupyter" alt="Jupyter"/><br/><sub><b>Jupyter</b><br/>85%</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Linux.svg" width="56" height="56" title="Linux - 85% proficiency" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/MATLAB.svg" width="56" height="56" title="MATLAB - 68% proficiency" alt="MATLAB"/><br/><sub><b>MATLAB</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Matplotlib.svg" width="56" height="56" title="Matplotlib - 78% proficiency" alt="Matplotlib"/><br/><sub><b>Matplotlib</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/NumPy.svg" width="56" height="56" title="NumPy - 85% proficiency" alt="NumPy"/><br/><sub><b>NumPy</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/OpenCV.svg" width="56" height="56" title="OpenCV - 78% proficiency" alt="OpenCV"/><br/><sub><b>OpenCV</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Pandas.svg" width="56" height="56" title="Pandas - 80% proficiency" alt="Pandas"/><br/><sub><b>Pandas</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Linux.svg" width="56" height="56" title="Linux" alt="Linux"/><br/><sub><b>Linux</b><br/>85%</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/MATLAB.svg" width="56" height="56" title="MATLAB" alt="MATLAB"/><br/><sub><b>MATLAB</b><br/>68%</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Matplotlib.svg" width="56" height="56" title="Matplotlib" alt="Matplotlib"/><br/><sub><b>Matplotlib</b><br/>78%</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/NumPy.svg" width="56" height="56" title="NumPy" alt="NumPy"/><br/><sub><b>NumPy</b><br/>90%</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/OpenCV.svg" width="56" height="56" title="OpenCV" alt="OpenCV"/><br/><sub><b>OpenCV</b><br/>85%</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Pandas.svg" width="56" height="56" title="Pandas" alt="Pandas"/><br/><sub><b>Pandas</b><br/>88%</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/python-programming-language-icon.svg" width="56" height="56" title="Python - 95% proficiency" alt="Python"/><br/><sub><b>Python</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/pytorch-icon.svg" width="56" height="56" title="PyTorch - 80% proficiency" alt="PyTorch"/><br/><sub><b>PyTorch</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/React.svg" width="56" height="56" title="React - 85% proficiency" alt="React"/><br/><sub><b>React</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Rust.svg" width="56" height="56" title="Rust - 70% proficiency" alt="Rust"/><br/><sub><b>Rust</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/scikit-learn.svg" width="56" height="56" title="Scikit-learn - 82% proficiency" alt="Scikit-learn"/><br/><sub><b>Scikit-learn</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/google-tensorflow-icon.svg" width="56" height="56" title="TensorFlow - 80% proficiency" alt="TensorFlow"/><br/><sub><b>TensorFlow</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/python-programming-language-icon.svg" width="56" height="56" title="Python" alt="Python"/><br/><sub><b>Python</b><br/>95%</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/pytorch-icon.svg" width="56" height="56" title="PyTorch" alt="PyTorch"/><br/><sub><b>PyTorch</b><br/>95%</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/React.svg" width="56" height="56" title="React" alt="React"/><br/><sub><b>React</b><br/>85%</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/Rust.svg" width="56" height="56" title="Rust" alt="Rust"/><br/><sub><b>Rust</b><br/>70%</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/scikit-learn.svg" width="56" height="56" title="Scikit-learn" alt="Scikit-learn"/><br/><sub><b>Scikit-learn</b><br/>92%</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Miranics/Miranics/main/icons/google-tensorflow-icon.svg" width="56" height="56" title="TensorFlow" alt="TensorFlow"/><br/><sub><b>TensorFlow</b><br/>95%</sub></td>
   </tr>
 </table>
 
