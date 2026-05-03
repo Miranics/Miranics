@@ -14,7 +14,7 @@ I build production-ready applications and reproducible ML systems. My work spans
 
 ## Skills
 
-<p align="center"><sub>Proficiency is shown under each icon.</sub></p>
+
 
 <table align="center">
   <tr>
