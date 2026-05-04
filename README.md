@@ -1,5 +1,5 @@
-# Miranics
-
+# Miranics         
+          
 Software and machine learning engineer. I build practical full-stack and AI solutions with strong foundations in reliability, support, and product delivery.
 ## About
 
@@ -63,5 +63,5 @@ I build production-ready applications and reproducible ML systems. My work spans
 - Email: miraclembanaade@gmail.com
 - Portfolio: https://miranics.github.io/portfolio-/
 
----
+---                         
 
