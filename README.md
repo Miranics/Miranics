@@ -1,8 +1,8 @@
-# Miranics         
+# Miranics                                                   
           
 Software and machine learning engineer. I build practical full-stack and AI solutions with strong foundations in reliability, support, and product delivery.
 ## About
-
+                             
 I build production-ready applications and reproducible ML systems. My work spans model development, data pipelines, web backends and frontends, and deployment automation. I prioritize clarity, reproducibility, and practical impact.
 
 ## Areas of expertise
