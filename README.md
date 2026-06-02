@@ -51,12 +51,12 @@ I build production-ready applications and reproducible ML systems. My work spans
   </tr>
 </table>
 
-## Here are some projects
+## Here are some projects      
 
 - Hii_Nen — AI full‑stack application: https://github.com/Miranics/Hii_Nen
 - CardioVision — Medical ML research & demo: https://github.com/Miranics/CardioVision
 - ML‑Cardiovascular‑Disease‑Risk‑Prediction — Jupyter research notebooks: https://github.com/Miranics/ML-Cardiovascular-Disease-Risk-Prediction
-- ML_Multimodal‑User‑Auth‑System — Multimodal authentication pipeline: https://github.com/Miranics/ML_Multimodal-User-Auth-System
+- ML_Multimodal‑User‑Auth‑System — Multimodal authentication pipeline: https://github.com/Miranics/ML_Multimodal-User-Auth-System.
 
 ## Contact
 
