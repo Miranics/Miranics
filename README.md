@@ -13,7 +13,7 @@ I build production-ready applications and reproducible ML systems. My work spans
 - High‑performance computing (CUDA, C++) and quantum‑adjacent research
 
 ## Skills
-
+                        
 
 
 <table align="center">
@@ -64,4 +64,4 @@ I build production-ready applications and reproducible ML systems. My work spans
 - Portfolio: https://miranics.github.io/portfolio-/
 
 ---   
-'
+
