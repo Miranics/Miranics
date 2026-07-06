@@ -64,3 +64,4 @@ I build production-ready applications and reproducible ML systems. My work spans
 - Portfolio: https://miranics.github.io/portfolio-/
 
 ---  
+...
