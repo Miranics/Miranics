@@ -63,4 +63,3 @@ I build production-ready applications and reproducible ML systems. My work spans
 - Email: miraclembanaade@gmail.com
 - Portfolio: https://miranics.github.io/portfolio-/
 
-...
